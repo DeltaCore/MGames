@@ -1,0 +1,15 @@
+<arenas>
+	<defaults>
+		<option name="cubeDistance" value="25"/>
+		<option name="cubeDiameter" value="5"/>
+	</defaults>
+	<arena name="Lols" uid="1">
+		<start x="1" y="1" z="2" uid="1"/>
+		<end x="1" y="1" z="2" uid="2"/>
+		<sign x="1" y="2" z="3"/>
+		<options>
+			<option name="cubeDistance" value="20"/>
+			<option name="cubeDiameter" value="4"/>	
+		</options>
+	</arena>
+</arenas>

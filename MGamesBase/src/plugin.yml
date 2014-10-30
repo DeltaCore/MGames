@@ -1,0 +1,8 @@
+name: MGamesBase
+main: net.ccmob.mc.plugin.mgames.base.MGamesBase
+version: 0.0.1
+commands:
+   lms:
+      usage: /lms <join/leave> <arena>
+      permission: mgamesbase.lms
+      permission-message: You don't have permissions
